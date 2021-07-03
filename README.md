@@ -1,7 +1,4 @@
-- Hi, I’m @Subu-Solo-Developer
-- I’m interested in learning new trending technologies and trying to make some project with it on my free times.
-- Simply this is what my hoppy.
-- This is my private account on github, and below you can get the link for my public account, where you will get all my open projects.
+- Hi, I’m @Subu-Solo-Developer. I’m interested in learning new trending technologies and trying to make some project with it on my free times. Simply this is what my hoppy. This is my private account on github, and below you can get the link for my public account, where you will get all my open projects.
    
 - So, far I am good at below list of items,
     1. Java
